@@ -1,7 +1,7 @@
 # distributed datastores
 
 | Name          | SQL | Doc | Mem | C.Rd | TS |
-| ------------- | --- | --- | --- | ---- | -- |
+| ------------- | --- | --- | --- | ---- |--- |
 | MySQL         |  Y  |     |     |   Y  |    |
 | MySQL/TokuDB  |  Y  |     |     |   Y  |    |
 | PostgreSQL    |  Y  |  /  |     |   Y  |    |
