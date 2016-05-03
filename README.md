@@ -27,3 +27,4 @@
 | Redshift      | sQL |     |     |      |    | Columnar store.                                                     |
 | HBase         |     |     |     |      |  Y |                                                                     |
 | Riak TS       |     |     |     |      |  Y |                                                                     |
+
