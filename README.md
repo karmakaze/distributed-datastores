@@ -1,6 +1,6 @@
 # distributed datastores
 
-| Name          | *QL | Doc | Mem | C.Rd | TS |
+| Name          | SQL | Doc | Mem | C.Rd | TS |
 | ------------- | --- | --- | --- | ---- | -- |
 | MySQL         |  Y  |     |     |   Y  |    |
 | MySQL/TokuDB  |  Y  |     |     |   Y  |    |
