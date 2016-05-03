@@ -1,7 +1,7 @@
 # distributed datastores
 
-| Name          | *QL | Doc | Mem | C.Rd | t |   Note                                                              |
-| ------------- | --- |     |     | ---- | - |   ----------------------------------------------------------------- |
+| Name          | *QL | Doc | Mem | C.Rd | t | Note                                                                |
+| ------------- | --- | --- | --- | ---- | - | ------------------------------------------------------------------- |
 | MySQL         |  Y  |     |     |   Y  |   |   Often used in large sharded production environments.              |
 | MySQL/TokuDB  |  Y  |     |     |   Y  |   |   Online schema changes, tunable write flushing, write througput.   |
 | PostgreSQL    |  Y  |     |     |   Y  |   |   Features approach document and moderate wide-column uses.         |
