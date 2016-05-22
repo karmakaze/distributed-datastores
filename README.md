@@ -41,7 +41,6 @@ Features approach document and moderate wide-column uses.
 MySQL protocol. Easy scaling and failover. Higher write throughput.
 
 ### MongoDB
-Cloudant is hosted + search.
 
 ### MongoDB/TokuMX
 
@@ -50,6 +49,9 @@ PostgreSQL protocol*.
 
 ### Cassandra
 Column family store. CQL. High-thoughput.
+
+### CouchDB
+Cloudant is hosted + search.
 
 ### Riak KV
 2.x has rich datatypes. Solr search. Per-bucket consistency config.
